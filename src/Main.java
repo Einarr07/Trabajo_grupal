@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Carreras: " + EPN.getCarreras());
         System.out.println("Docentes: " + EPN.getDocentes());
         System.out.println("Estudiantes: " + EPN.getEstudiantes());
-        System.out.println("Prueba Rama");
+
     }
 }
