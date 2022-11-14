@@ -14,7 +14,7 @@ public class Universidades {
 
     /* Métodos y Eventos*/
     public void educar(){}
-
+    
     public String getNombre_U() {
         return nombre_U;
     }
